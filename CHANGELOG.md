@@ -3,4 +3,4 @@ All notable changes to this project will be documented in this file. This change
 
 ## [Unreleased]
 
-[Unreleased]: https://github.com/IGJoshua/clogl/compare/...HEAD
+[Unreleased]: https://github.com/IGJoshua/clogl/compare/1ff100d972cfc04ea520d21d20854d243c7a74bb...HEAD
